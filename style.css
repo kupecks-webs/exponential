@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+body {
+    background-color: #2f4f4f;
+    color: #f0ffff;
+    text-align: center;
+    font-family: 'Lexend Deca', sans-serif;
+}
+#exponential {
+    font-size: 100px;
+}
