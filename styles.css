@@ -26,8 +26,17 @@ button:active {
 }
 table {
     position: absolute;
+    table-layout: fixed;
     left: 5%;
     right: 5%;
-    border: #f0ffff;
-    border-width: 1px;
+    width: 90%;
+}
+table tr th {
+    padding: 3px 0;
+    border: 1px solid #f0ffff;
+    font-size: 15px;
+}
+table tr td {
+    padding: 2px 0;
+    border: 1px solid #f0ffff;
 }
